@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{7DD39362-CCC6-4271-B3A5-94CCEABD80AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "src\ApiGateway\Api\Api.csproj", "{38550B42-EC03-44E6-8985-3646BAAD0A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.UnitTests", "src\ApiGateway\Api.UnitTests\Api.UnitTests.csproj", "{0DB5483A-0CCC-4E8F-8F00-0C5913342D68}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contexts", "Contexts", "{D406DE2C-4FC4-4B4B-8B97-9A045F6294E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PingContext", "PingContext", "{B9C4710F-2D44-488E-800D-D65EAC6540ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{6CCF3B56-996C-4FB2-9721-101F4EADDC94}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{DF2FD08F-876F-4209-9059-A01793129A1B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{752960ED-B905-4FB5-A51A-7D57248122BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping.Application.Controllers", "src\Contexts \Ping.Application.Controllers\Ping.Application.Controllers.csproj", "{27109140-0BFF-4F25-8174-E70A82B56017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingContext.Application.Service.Abstraction", "src\Contexts \PingContext.Application.Service.Abstractions\PingContext.Application.Service.Abstraction.csproj", "{73808BA0-7A93-4D46-AC0A-656882531C0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingContext.Application.Service", "src\Contexts \PingContext.Application.Service\PingContext.Application.Service.csproj", "{6A07802F-DC15-4A37-B99F-D761EFB7CE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingContext.Application.Service.UnitTests", "src\Contexts \PingContext.Application.Service.UnitTests\PingContext.Application.Service.UnitTests.csproj", "{182C14F7-9C44-4658-9279-91C4CB3943A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingContext.Application.Controllers.UnitTests", "src\Contexts \PingContext.Application.Controllers.UnitTests\PingContext.Application.Controllers.UnitTests.csproj", "{A5F88FBA-9CFA-421B-81BE-074D9C397DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38550B42-EC03-44E6-8985-3646BAAD0A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38550B42-EC03-44E6-8985-3646BAAD0A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38550B42-EC03-44E6-8985-3646BAAD0A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38550B42-EC03-44E6-8985-3646BAAD0A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB5483A-0CCC-4E8F-8F00-0C5913342D68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB5483A-0CCC-4E8F-8F00-0C5913342D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB5483A-0CCC-4E8F-8F00-0C5913342D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB5483A-0CCC-4E8F-8F00-0C5913342D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27109140-0BFF-4F25-8174-E70A82B56017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27109140-0BFF-4F25-8174-E70A82B56017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27109140-0BFF-4F25-8174-E70A82B56017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27109140-0BFF-4F25-8174-E70A82B56017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73808BA0-7A93-4D46-AC0A-656882531C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73808BA0-7A93-4D46-AC0A-656882531C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73808BA0-7A93-4D46-AC0A-656882531C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73808BA0-7A93-4D46-AC0A-656882531C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A07802F-DC15-4A37-B99F-D761EFB7CE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A07802F-DC15-4A37-B99F-D761EFB7CE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A07802F-DC15-4A37-B99F-D761EFB7CE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A07802F-DC15-4A37-B99F-D761EFB7CE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182C14F7-9C44-4658-9279-91C4CB3943A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182C14F7-9C44-4658-9279-91C4CB3943A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182C14F7-9C44-4658-9279-91C4CB3943A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182C14F7-9C44-4658-9279-91C4CB3943A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F88FBA-9CFA-421B-81BE-074D9C397DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F88FBA-9CFA-421B-81BE-074D9C397DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F88FBA-9CFA-421B-81BE-074D9C397DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F88FBA-9CFA-421B-81BE-074D9C397DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38550B42-EC03-44E6-8985-3646BAAD0A25} = {7DD39362-CCC6-4271-B3A5-94CCEABD80AF}
+		{0DB5483A-0CCC-4E8F-8F00-0C5913342D68} = {7DD39362-CCC6-4271-B3A5-94CCEABD80AF}
+		{B9C4710F-2D44-488E-800D-D65EAC6540ED} = {D406DE2C-4FC4-4B4B-8B97-9A045F6294E6}
+		{6CCF3B56-996C-4FB2-9721-101F4EADDC94} = {B9C4710F-2D44-488E-800D-D65EAC6540ED}
+		{DF2FD08F-876F-4209-9059-A01793129A1B} = {6CCF3B56-996C-4FB2-9721-101F4EADDC94}
+		{752960ED-B905-4FB5-A51A-7D57248122BB} = {6CCF3B56-996C-4FB2-9721-101F4EADDC94}
+		{27109140-0BFF-4F25-8174-E70A82B56017} = {DF2FD08F-876F-4209-9059-A01793129A1B}
+		{73808BA0-7A93-4D46-AC0A-656882531C0B} = {752960ED-B905-4FB5-A51A-7D57248122BB}
+		{6A07802F-DC15-4A37-B99F-D761EFB7CE24} = {752960ED-B905-4FB5-A51A-7D57248122BB}
+		{182C14F7-9C44-4658-9279-91C4CB3943A3} = {752960ED-B905-4FB5-A51A-7D57248122BB}
+		{A5F88FBA-9CFA-421B-81BE-074D9C397DD4} = {DF2FD08F-876F-4209-9059-A01793129A1B}
+	EndGlobalSection
+EndGlobal

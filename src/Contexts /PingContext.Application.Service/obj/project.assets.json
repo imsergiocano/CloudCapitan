@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PingContext.Application.Service.Abstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PingContext.Application.Service.Abstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PingContext.Application.Service.Abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PingContext.Application.Service.Abstraction/1.0.0": {
+      "type": "project",
+      "path": "../PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj",
+      "msbuildProject": "../PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PingContext.Application.Service.Abstraction >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sergio/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/PingContext.Application.Service.csproj",
+      "projectName": "PingContext.Application.Service",
+      "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/PingContext.Application.Service.csproj",
+      "packagesPath": "/Users/sergio/.nuget/packages/",
+      "outputPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sergio/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj": {
+              "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

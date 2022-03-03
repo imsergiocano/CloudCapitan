@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Controllers.UnitTests/PingContext.Application.Controllers.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/sergio/Projects/CloudCapitan/src/Contexts /Ping.Application.Controllers/Ping.Application.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergio/Projects/CloudCapitan/src/Contexts /Ping.Application.Controllers/Ping.Application.Controllers.csproj",
+        "projectName": "Ping.Application.Controllers",
+        "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /Ping.Application.Controllers/Ping.Application.Controllers.csproj",
+        "packagesPath": "/Users/sergio/.nuget/packages/",
+        "outputPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /Ping.Application.Controllers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj": {
+                "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Controllers.UnitTests/PingContext.Application.Controllers.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Controllers.UnitTests/PingContext.Application.Controllers.UnitTests.csproj",
+        "projectName": "PingContext.Application.Controllers.UnitTests",
+        "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Controllers.UnitTests/PingContext.Application.Controllers.UnitTests.csproj",
+        "packagesPath": "/Users/sergio/.nuget/packages/",
+        "outputPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Controllers.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/sergio/Projects/CloudCapitan/src/Contexts /Ping.Application.Controllers/Ping.Application.Controllers.csproj": {
+                "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /Ping.Application.Controllers/Ping.Application.Controllers.csproj"
+              },
+              "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/PingContext.Application.Service.csproj": {
+                "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/PingContext.Application.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj",
+        "projectName": "PingContext.Application.Service.Abstraction",
+        "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj",
+        "packagesPath": "/Users/sergio/.nuget/packages/",
+        "outputPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/PingContext.Application.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/PingContext.Application.Service.csproj",
+        "projectName": "PingContext.Application.Service",
+        "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/PingContext.Application.Service.csproj",
+        "packagesPath": "/Users/sergio/.nuget/packages/",
+        "outputPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sergio/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj": {
+                "projectPath": "/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstraction.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

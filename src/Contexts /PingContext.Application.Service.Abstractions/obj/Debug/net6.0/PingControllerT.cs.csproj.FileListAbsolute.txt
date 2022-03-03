@@ -1,0 +1,12 @@
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/bin/Debug/net6.0/PingControllerT.cs.deps.json
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/bin/Debug/net6.0/PingControllerT.cs.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/bin/Debug/net6.0/PingControllerT.cs.pdb
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingControllerT.cs.csproj.AssemblyReference.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingControllerT.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingControllerT.cs.AssemblyInfoInputs.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingControllerT.cs.AssemblyInfo.cs
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingControllerT.cs.csproj.CoreCompileInputs.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingControllerT.cs.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/refint/PingControllerT.cs.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingControllerT.cs.pdb
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/ref/PingControllerT.cs.dll

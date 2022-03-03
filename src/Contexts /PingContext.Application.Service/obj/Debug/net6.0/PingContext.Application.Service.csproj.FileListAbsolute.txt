@@ -1,0 +1,15 @@
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/bin/Debug/net6.0/PingContext.Application.Service.deps.json
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/bin/Debug/net6.0/PingContext.Application.Service.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/bin/Debug/net6.0/PingContext.Application.Service.pdb
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/bin/Debug/net6.0/PingContext.Application.Service.Abstraction.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/bin/Debug/net6.0/PingContext.Application.Service.Abstraction.pdb
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/PingContext.Application.Service.csproj.AssemblyReference.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/PingContext.Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/PingContext.Application.Service.AssemblyInfoInputs.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/PingContext.Application.Service.AssemblyInfo.cs
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/PingContext.Application.Service.csproj.CoreCompileInputs.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/PingContext.Application.Service.csproj.CopyComplete
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/PingContext.Application.Service.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/refint/PingContext.Application.Service.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/PingContext.Application.Service.pdb
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service/obj/Debug/net6.0/ref/PingContext.Application.Service.dll

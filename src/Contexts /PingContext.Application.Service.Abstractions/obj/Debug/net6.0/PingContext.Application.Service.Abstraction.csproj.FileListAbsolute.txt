@@ -1,0 +1,12 @@
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/bin/Debug/net6.0/PingContext.Application.Service.Abstraction.deps.json
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/bin/Debug/net6.0/PingContext.Application.Service.Abstraction.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/bin/Debug/net6.0/PingContext.Application.Service.Abstraction.pdb
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingContext.Application.Service.Abstraction.csproj.AssemblyReference.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingContext.Application.Service.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingContext.Application.Service.Abstraction.AssemblyInfoInputs.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingContext.Application.Service.Abstraction.AssemblyInfo.cs
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingContext.Application.Service.Abstraction.csproj.CoreCompileInputs.cache
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingContext.Application.Service.Abstraction.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/refint/PingContext.Application.Service.Abstraction.dll
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/PingContext.Application.Service.Abstraction.pdb
+/Users/sergio/Projects/CloudCapitan/src/Contexts /PingContext.Application.Service.Abstractions/obj/Debug/net6.0/ref/PingContext.Application.Service.Abstraction.dll

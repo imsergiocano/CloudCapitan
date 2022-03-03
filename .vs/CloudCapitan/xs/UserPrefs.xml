@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{38550B42-EC03-44E6-8985-3646BAAD0A25}|Default">
+  <MonoDevelop.Ide.ItemProperties.ApiGateway.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <DisabledProjects>
+    <String>src/Contexts /PingContext.Application.Service/PingContext.Application.Service.Abstractions/PingContext.Application.Service.Abstractions.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Contexts /Ping.Application.Controllers/PingController.cs">
+    <Files>
+      <File FileName="src/Contexts /Ping.Application.Controllers/WeatherForecastController.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CloudCapitan" expanded="True">
+            <Node name="ApiGateway" expanded="True">
+              <Node name="Api.UnitTests" expanded="True" />
+            </Node>
+            <Node name="Contexts" expanded="True">
+              <Node name="PingContext" expanded="True">
+                <Node name="Application" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="Ping.Application.Controllers" expanded="True" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="CloudCapitan" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Contexts.PingContext.Application.Controllers.PingContext.Application.Controllers.UnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
